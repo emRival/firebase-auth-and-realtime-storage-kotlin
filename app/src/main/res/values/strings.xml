@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginRegisterRelative</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <array name="jenis_kelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </array>
+    <array name="pendidikan_terakhir">
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>S1/D4</item>
+    </array>
+</resources>

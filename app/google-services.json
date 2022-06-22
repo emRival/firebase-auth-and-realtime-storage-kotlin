@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518922950326",
+    "project_id": "loginregisterrelative-a61af",
+    "storage_bucket": "loginregisterrelative-a61af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518922950326:android:ec99de6adb632e0effb817",
+        "android_client_info": {
+          "package_name": "com.rival.loginregisterrelative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518922950326-e9aj6agtec2m8a8et4cj7d0in73ipiu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAry_c6jWaOpdpj1M0B9SXzR4WRIx7SF6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518922950326-e9aj6agtec2m8a8et4cj7d0in73ipiu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
